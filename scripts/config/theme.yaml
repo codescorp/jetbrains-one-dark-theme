@@ -355,7 +355,9 @@ attributes:
   HAML_TAG: chalky
   HAML_TAG_NAME: coral
   HAML_TEXT: *id002
-  HTML_ATTRIBUTE_NAME: whiskey
+  HTML_ATTRIBUTE_NAME:
+    foreground: whiskey
+    italic: theme
   HTML_ATTRIBUTE_VALUE: green
   HTML_ENTITY_REFERENCE: coral
   HTML_TAG_NAME: coral
@@ -445,6 +447,11 @@ attributes:
   LOG_INFO_OUTPUT: green
   LOG_VERBOSE_OUTPUT: malibu
   LOG_WARNING_OUTPUT: chalky
+  LOGCAT_DEBUG_OUTPUT: fountainBlue
+  LOGCAT_ASSERT_OUTPUT: coral
+  LOGCAT_VERBOSE_OUTPUT: malibu
+  LOGCAT_INFO_OUTPUT: green
+  LOGCAT_WARNING_OUTPUT: chalky
   List/map to object conversion: malibu
   MACRONAME: malibu
   MAGIC_MEMBER_ACCESS: whiskey

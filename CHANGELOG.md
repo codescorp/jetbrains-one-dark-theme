@@ -1,5 +1,11 @@
 # Changelog
 
+#### 5.0.0
+
+- Reverted 4.X changes
+- HTML Attributes can now be italic. 
+- Added Android Log-Cat Colors
+
 #### 3.3.6
 
 - Add support for 2020.2
